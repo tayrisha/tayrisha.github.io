@@ -1,0 +1,31 @@
+ul.nav {
+  text-align: center;
+  background-color: #FFF5E9;
+  padding: 12px;
+}
+ul.nav > li {
+  display: inline-block;
+  padding: 20px 30px;
+
+  
+}
+ul.nav > li:hover {
+  background-color: #FFD9B1;
+}
+ul.nav > li > a {
+  color: #522B01 ;
+  font-size: 20px;
+  text-decoration: none;
+}
+
+
+
+  body {
+     background-image: url("CapyBackground.jpg"); 
+     background-repeat: no-repeat;
+     background-size: cover;
+     background-attachment: fixed;
+     background-position: right top;
+  }
+  
+  
